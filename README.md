@@ -47,8 +47,8 @@ exit 0
 ```
 
 # Useful Resources
-About pre-receive hooks [link](https://help.github.com/enterprise/2.13/admin/guides/developer-workflow/about-pre-receive-hooks/)
-Managing pre-receive hooks on the GitHub Enterprise appliance [link](https://help.github.com/enterprise/2.15/admin/guides/developer-workflow/managing-pre-receive-hooks-on-the-github-enterprise-appliance/)
-GitHub Sample Pre-receive Hooks [link](https://github.com/github/platform-samples/tree/master/pre-receive-hooks)
-Creating a pre-receive hook script [link](https://help.github.com/enterprise/2.13/admin/guides/developer-workflow/creating-a-pre-receive-hook-script/)
+About pre-receive hooks [(link)](https://help.github.com/enterprise/2.13/admin/guides/developer-workflow/about-pre-receive-hooks/)<br>
+Managing pre-receive hooks on the GitHub Enterprise appliance [(link)](https://help.github.com/enterprise/2.15/admin/guides/developer-workflow/managing-pre-receive-hooks-on-the-github-enterprise-appliance/)<br>
+GitHub Sample Pre-receive Hooks [(link)](https://github.com/github/platform-samples/tree/master/pre-receive-hooks)<br>
+Creating a pre-receive hook script [(link)](https://help.github.com/enterprise/2.13/admin/guides/developer-workflow/creating-a-pre-receive-hook-script/)
 
